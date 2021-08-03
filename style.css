@@ -1,0 +1,7 @@
+body{
+    background-size: 1600px 800px;
+}
+
+canvas{
+    border: 5px ridge white;
+}
